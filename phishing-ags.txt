@@ -42800,7 +42800,6 @@ gossuslugi.su
 gocusluga.ru
 xn--c1aapkosp.xn--p1ai
 xn--c1aapamrvaatca.xn--p1ai
-госуспуги.рф
 vgosuslugi.ru
 gosusslygi.ru
 gosuslugivrn.ru
@@ -69156,7 +69155,7 @@ nab-verify-online.com
 nab.activateaccount.info
 nab.bank-confirmation.in
 nab.bank-verification.info
-nab.com.au! #547
+nab.com.au
 nab.com.au-66c28750.national-australia-bank-179602f4.3inatree.com.au
 nab.com.au.device-confirm.services
 nab.com.au.lawrencepur.com
