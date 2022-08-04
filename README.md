@@ -40,7 +40,5 @@
  
 21: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/ransomware-ags.txt
  
-22: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/README.md
- 
-23: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/youtubelist.txt
+22: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/youtubelist.txt
  
