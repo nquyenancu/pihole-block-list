@@ -3,7 +3,7 @@ import os
 def main():
     seq = 1
     for item in os.listdir():
-        if item == '.git':
+        if item == '.git' or item == 'link.py':
             continue
         link = '%s: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/%s' % (seq, item)
         write_file(link)
