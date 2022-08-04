@@ -1,21 +1,49 @@
-[I'm an inline-style link](https://www.google.com)
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/.git
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/adguarddns-justdomains.txt
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/ads-and-tracking-extended.txt
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/ads-dnsmasq.txt
 
-[You can use numbers for reference-style link definitions][1]
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/ads-new.txt
 
-Or leave it empty and use the [link text itself].
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/ads.txt
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/amp-hosts-extended.txt
 
-Some text to show that the reference links can follow later.
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/crowed_list.txt
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/easylist-justdomains.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/easyprivacy-justdomains.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/every.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/everything-dnsmasq.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/hosts-2.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/hosts.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/link.py
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/malware-ags.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/malware-nl.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/malware.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/nocoin-justdomains.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/phishing-ags.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/phishing-nl.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/piracy-ags.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/ransomware-ags.txt
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/README.md
+
+https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/youtubelist.txt
