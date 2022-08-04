@@ -8,8 +8,6 @@ https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/ads-dnsmasq.
 
 https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/ads-new.txt
 
-https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/ads.txt
-
 https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/amp-hosts-extended.txt
 
 https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/crowed_list.txt
