@@ -35515,7 +35515,6 @@ an.brightroll.com
 an.cliphub.io
 an.cliphub.net
 an.dongphim.net
-an.facebook.com
 an.goodsblock.mgid.com
 an.mainichi.jp
 an.mlb.com
