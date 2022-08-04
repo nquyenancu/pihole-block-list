@@ -24,25 +24,23 @@
  
 13: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/hosts.txt
  
-14: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/link.py
+14: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/malware-ags.txt
  
-15: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/malware-ags.txt
+15: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/malware-nl.txt
  
-16: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/malware-nl.txt
+16: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/malware.txt
  
-17: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/malware.txt
+17: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/nocoin-justdomains.txt
  
-18: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/nocoin-justdomains.txt
+18: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/phishing-ags.txt
  
-19: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/phishing-ags.txt
+19: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/phishing-nl.txt
  
-20: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/phishing-nl.txt
+20: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/piracy-ags.txt
  
-21: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/piracy-ags.txt
+21: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/ransomware-ags.txt
  
-22: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/ransomware-ags.txt
+22: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/README.md
  
-23: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/README.md
- 
-24: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/youtubelist.txt
+23: https://raw.githubusercontent.com/nquyenancu/pihole-block-list/main/youtubelist.txt
  
