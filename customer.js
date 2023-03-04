@@ -1,5 +1,5 @@
-window.addEventListener('load', thing);
-function thing() {
+window.onload = function() 
+	console.log("OKE")
 	document.getElementsByClassName('hope-c-PJLV-ihaOegS-css')[0].style.gridTemplateColumns='repeat(auto-fill, minmax(150px, 1fr))';
 	const boxes = document.querySelectorAll('.hope-c-PJLV-iiRGVPv-css');
 
@@ -7,4 +7,4 @@ function thing() {
 	  box.style.height = 'auto';
 	  box.style.width = '100%';
 	});
-}
+};
